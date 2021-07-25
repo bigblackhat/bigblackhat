@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigblackhat&theme=gruvbox)](https://github.com/bigblackhat/github-readme-stats)
 
-<img align="right" alt="IGEG" src="IMG/2020067181708.jpeg" />
+<img align="right" alt="GIF" src="IMG/pusheencode.gif" />
 
 ### I'm BigBlackHat
 
