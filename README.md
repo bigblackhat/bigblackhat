@@ -14,6 +14,20 @@
 
 * 🍜🍕🍟☕️🍗火龙果
 
+* 还是个画渣，又菜又爱画
+
+<details>
+<summary>画廊[点击展开]</summary>
+
+![show](IMG/IMG_0014.PNG)
+![show](IMG/IMG_0056.JPG)
+
+</details>
+
+<br/>
+<br/>
+<br/>
+
 <img align='Middle' src="https://metrics.lecoq.io/bigblackhat?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" width="500">
 
 <!-- 
