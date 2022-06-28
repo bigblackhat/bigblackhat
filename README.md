@@ -1,20 +1,23 @@
-### Hi there 👋
+# Hi,I'm Leonardo 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigblackhat&theme=gruvbox)](https://github.com/bigblackhat/github-readme-stats)
+## Today，Whoami?
 
-<img align="right" alt="GIF" src="IMG/pusheencode.gif" />
 
-### I'm BigBlackHat
+* 白羊座
 
-* 💻 安服菜鸡、专业饮水机看守员、非知名黑客、常年内网迷路者、Web安全萌新
+* 高敏感型人格
 
-* 🐧 : ``NjIzNzEyNjEx``
+* 不善长社交，但擅长对线
 
-* 🎮 王者农药、消逝的光芒、肝露谷物语、生化危机、狂战士信条、野炊、怪物猎人崛起  
+* 偶尔健身
 
-* 🍜🍕🍟☕️🍗火龙果
+* QQ : ``NjIzNzEyNjEx``
 
-* 还是个画渣，又菜又爱画
+* 菜鸡安全研究员：只会复现
+
+* 是个游戏玩家，我喜欢：王者、消逝的光芒、肝露谷物语、生化危机、狂战士信条、野炊、马里欧、怪物猎人崛起  
+
+* 还是个画渣：又菜又爱画
 
 <details>
 <summary>画廊[点击展开]</summary>
@@ -25,12 +28,25 @@
 </details>
 
 <br/>
+
+## Tomorrow，I hope Whoami？
+* 写几篇师傅们愿意读的文章
+* 写几个能放进师傅们工具箱里的工具
+* 为一些著名开源安全项目提交贡献
+* 为网络安全行业贡献一份微薄的力量
+* 好好生活，热爱生命，期待将来的每一天，不后悔过去的每一天
+
 <br/>
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigblackhat&theme=)](https://github.com/bigblackhat/github-readme-stats)
 
 <img align='Middle' src="https://metrics.lecoq.io/bigblackhat?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" width="500">
 
+
 <!-- 
+<img align="right" alt="GIF" src="IMG/pusheencode.gif" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigblackhat&layout=compact&hide=html)](https://github.com/bigblackhat/github-readme-stats)
  -->
 
