@@ -22,7 +22,7 @@ you can also call me real name : ``jijue(姬珏)``
 * 还是个画渣：又菜又爱画
 
 <details>
-<summary>画廊[点击展开]</summary>
+<summary>我的画廊[点击展开]</summary>
 
 ![show](IMG/IMG_0014.PNG)
 ![show](IMG/IMG_0056.JPG)
