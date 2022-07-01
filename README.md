@@ -1,6 +1,6 @@
 # Hi,I'm Leonardo 👋
 
-you can also call me real name:jijue(姬珏)
+you can also call me real name : ``jijue(姬珏)``
 
 ## Today，Whoami?
 
