@@ -15,6 +15,8 @@ you can also call me real name : ``jijue(姬珏)``
 
 * QQ : ``NjIzNzEyNjEx``
 
+* Email : ``623712611@qq.com``
+
 * 菜鸡安全研究员：只会复现
 
 * 近期研究方向：Java应用安全和软件成分分析
