@@ -13,8 +13,6 @@ you can also call me real name : ``jijue(姬珏)``
 
 * 偶尔健身
 
-* QQ : ``NjIzNzEyNjEx``
-
 * Email : ``623712611@qq.com``
 
 * 菜鸡安全研究员：~~只会复现~~  偶尔也会复现失败
