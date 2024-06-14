@@ -25,8 +25,10 @@ you can also call me other name : ``jijue(姬珏)``
 
 <!-- <details>
 <summary>我的画廊[点击展开]</summary> -->
+<div align="center">
+ <img src="IMG/IMG_0014.PNG" width = "200" height = "400" alt="略" align=center />
+</div>
 
-![show](IMG/IMG_0014.PNG)
 ![show](IMG/IMG_0056.JPG)
 
 </details>
