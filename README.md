@@ -21,12 +21,15 @@ you can also call me other name : ``jijue(姬珏)``
 
 * ~~是个主机游戏玩家，我喜欢：塞尔达、死亡细胞、消逝的光芒、肝露谷物语、生化危机、刺客信条、野炊、瑞奇与叮当、怪物猎人。~~ 已戒游
 
-* 还是个画渣：又菜又爱画
+* 是个画渣，只会临摹
 
 <!-- <details>
 <summary>我的画廊[点击展开]</summary> -->
 <div align="center">
  <img src="IMG/IMG_0014.PNG" width = "200" height = "400" alt="略" align=center />
+</div>
+<div align="center">
+ <img src="IMG/IMG_0232.JPG" width = "300" height = "400" alt="略" align=center />
 </div>
 
 ![show](IMG/IMG_0056.JPG)
