@@ -5,13 +5,7 @@ you can also call me other name : ``jijue(姬珏)``
 ## Whoami?
 
 
-* 白羊座
-
-* 高敏感型人格
-
-* 不善长社交，但擅长对线
-
-* 自重训练，专业箭修。长弓硬箭，五步射面
+* 白羊座, 高敏感型人格
 
 * Email : ``623712611@qq.com``
 
